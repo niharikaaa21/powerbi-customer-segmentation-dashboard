@@ -57,7 +57,7 @@ The dashboard is designed to:
 - Scatter plot of **Annual Income vs Spending Score**
 - Reveals distinct customer segments and spending patterns
 
-![Income vs Spending](screenshots/spending score by annual income of both genders.png)
+![Income vs Spending](screenshots/spending_score_by_annual_income_of_both_genders.png)
 
 
 ---
@@ -66,7 +66,8 @@ The dashboard is designed to:
 - Compares spending behavior across age segments
 - Highlights age groups contributing higher customer value
 
-![Average Spending Score by Age Group](screenshots/average spending score by age group.png)
+![Average Spending Score by Age Group](screenshots/average_spending_score_by_age_group.png)
+
 
 ---
 
@@ -74,7 +75,7 @@ The dashboard is designed to:
 - Shows customer base composition by age
 - Helps assess demographic concentration
 
-![Customer Distribution by Age Group](screenshots/total customers by age group.png)
+![Customer Distribution by Age Group](screenshots/total_customers_by_age_group.png)
 
 ---
 
@@ -82,7 +83,7 @@ The dashboard is designed to:
 - Displays customer distribution by gender
 - Supports demographic-level analysis
 
-![Gender Distribution](screenshots/gender distribution.png)
+![Gender Distribution](screenshots/gender_distribution.png)
 
 ---
 
@@ -90,7 +91,7 @@ The dashboard is designed to:
 - Customer-level details with conditional formatting
 - Highlights high-spending customers for quick identification
 
-![High-Spending Customers Table](screenshots/customer overview with an emphasis on spending score.png)
+![High-Spending Customers Table](screenshots/customer_overview_with_an_emphasis_on_spending_score.png)
 
 ---
 
